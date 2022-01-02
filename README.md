@@ -1,6 +1,6 @@
 ### Maker from Cologne, Germany 🇩🇪
 
-List of finished projects
+Finished projects:
 - Split-flap display with 3D-printed flaps [Split-Flap Display on PrusaPrinters](https://www.prusaprinters.org/prints/69464-split-flap-display)
 
 📫 How to reach me:
